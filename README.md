@@ -2,4 +2,4 @@
 
 1. attention 모듈을 사용
 
-  attention 모듈 설명을 참고하여 주어진 파일에서 attention 모듈을 구현하고 그래프로 결과를 확인
+ - attention 모듈 설명을 참고하여 주어진 파일에서 attention 모듈을 구현하고 그래프로 결과를 확인
